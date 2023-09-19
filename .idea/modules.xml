@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Courses/Courses.iml" filepath="$PROJECT_DIR$/Courses/Courses.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Learning.iml" filepath="$PROJECT_DIR$/.idea/Java_Learning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Courses/Solving Problems with Software/Solving Problems with Software.iml" filepath="$PROJECT_DIR$/Courses/Solving Problems with Software/Solving Problems with Software.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Courses/Solving Problems with Software/Week1/Week1.iml" filepath="$PROJECT_DIR$/Courses/Solving Problems with Software/Week1/Week1.iml" />
     </modules>
   </component>
 </project>
