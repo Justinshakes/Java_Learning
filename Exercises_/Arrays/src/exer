@@ -1,0 +1,22 @@
+
+Certainly! Here's a checklist of array-related exercises, numbered from 1 to 10:
+
+1. Array Sum: Write a program that calculates the sum of all elements in an integer array.
+
+2. Array Average: Create a program that calculates the average of elements in an integer array.
+
+3. Find Maximum and Minimum: Write a program that finds the maximum and minimum values in an integer array.
+
+4. Array Sorting: Implement a program that sorts an integer array in ascending order. You can use sorting algorithms like bubble sort, selection sort, or Java's built-in Arrays.sort() method.
+
+5. Array Search: Create a program that searches for a specific element in an integer array and returns its index. If the element is not found, indicate that it's not in the array.
+
+6. Remove Duplicates: Write a program that removes duplicate elements from an integer array, leaving only the distinct values.
+
+7. Reverse an Array: Implement a program that reverses the elements in an integer array. The first element becomes the last, the second becomes the second-to-last, and so on.
+
+8. Merge Arrays: Create a program that merges two integer arrays into a single array.
+
+9. Array Rotation: Write a program that rotates the elements of an integer array to the right by a given number of positions.
+
+10. Array Statistics: Implement a program that calculates various statistics for an integer array, such as the range (difference between the maximum and minimum), median, and mode.

@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Exercises/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises_/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Exercises_/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises_/Exercises_.iml" filepath="$PROJECT_DIR$/Exercises_/Exercises_.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Learning.iml" filepath="$PROJECT_DIR$/.idea/Java_Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Courses/Solving Problems with Software/Solving Problems with Software.iml" filepath="$PROJECT_DIR$/Courses/Solving Problems with Software/Solving Problems with Software.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercises/Strings/Strings.iml" filepath="$PROJECT_DIR$/Exercises/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises_/Strings/Strings.iml" filepath="$PROJECT_DIR$/Exercises_/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Courses/Solving Problems with Software/Week1/Week2/Week2.iml" filepath="$PROJECT_DIR$/Courses/Solving Problems with Software/Week1/Week2/Week2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Courses/Solving Problems with Software/Week1/Week2/Week3/Week3.iml" filepath="$PROJECT_DIR$/Courses/Solving Problems with Software/Week1/Week2/Week3/Week3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Courses/Solving Problems with Software/Week1/Week2/Week4/Week4.iml" filepath="$PROJECT_DIR$/Courses/Solving Problems with Software/Week1/Week2/Week4/Week4.iml" />

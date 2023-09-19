@@ -1,0 +1,33 @@
+1. String Length: Write a program that takes a string as input and prints its length.
+
+2. Reverse a String: Write a program to reverse a given string. For example, if the input is "Hello," the output should be "olleH."
+
+3. Count Vowels and Consonants: Create a program that counts the number of vowels and consonants in a given string.
+
+4. Palindrome Checker: Write a program that checks if a given string is a palindrome (reads the same forwards and backwards).
+
+5. String Concatenation: Write a program that concatenates two strings and prints the result.
+
+6. Substring Extraction: Create a program that extracts a substring from a given string. Prompt the user for the starting and ending indices.
+
+7. String Comparison: Write a program that compares two strings to determine if they are equal (consider case sensitivity).
+
+8. Character Frequency Counter: Create a program that counts the frequency of each character in a string and displays the results.
+
+9. Word Count: Write a program that counts the number of words in a sentence. Assume words are separated by spaces.
+
+10. String Reversal without Reversing Words: Write a program to reverse the words in a sentence without reversing the individual characters within each word. For example, "Hello World" should become "olleH dlroW."
+
+11. String Encryption: Implement a simple encryption algorithm where each character in a string is replaced by the next character in the alphabet. For example, 'a' becomes 'b,' 'b' becomes 'c,' and so on.
+
+12. Find and Replace: Create a program that takes a string, a search term, and a replacement term. Replace all occurrences of the search term with the replacement term in the string.
+
+13. String Validation: Write a program that checks if a given string contains only alphabetic characters (no numbers or special symbols).
+
+14. String Splitting: Write a program that splits a sentence into words and stores them in an array. Then, print each word on a separate line.
+
+15. String Formatting: Create a program that takes a string as input and converts it to title case (capitalizes the first letter of each word).
+
+16. String Rotation: Write a program that checks if one string is a rotation of another. For example, "waterbottle" is a rotation of "erbottlewat."
+
+17. String Compression: Implement a program that compresses a string by replacing consecutive repeated characters with the character followed by the count. For example, "aaabbbcc" becomes "a3b3c2."
